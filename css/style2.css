@@ -42,10 +42,12 @@ h3 {
 }
 
 .first-image {
+	max-width: 50%;
 	margin-right: 30px;
 	border-radius: 5px;
 }
 
 .second-image {
+	max-width: 50%;
 	border-radius: 5px;
 }
